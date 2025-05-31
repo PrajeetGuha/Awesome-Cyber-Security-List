@@ -28,7 +28,7 @@ Bookmarks
 
 [LiveOverflow - Awesome to learn Computer Security](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 
-[Welcome to SecurityTube.net](http://www.securitytube.net/)
+[Welcome to SecurityTube.net](http://www.securitytube.net/) (Not Available)
 
 </dl>
 
@@ -38,9 +38,9 @@ Bookmarks
 
 <dl>
 
-[Offensive Security 2013 - FSU - Lecture5: Reverse Engineering (x86) Workshop Day 1 - YouTube](https://www.youtube.com/watch?v=Pg8bmV9vcKg&feature=youtu.be)
+- [x] [Offensive Security 2013 - FSU - Lecture5: Reverse Engineering (x86) Workshop Day 1 - YouTube](https://www.youtube.com/watch?v=Pg8bmV9vcKg&feature=youtu.be)
 
-[Offensive Computer Security Home Page Spring 2014](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/)
+[Offensive Computer Security Home Page Spring 2014](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/) (Not Available)
 
 [Training for manipulating all kinds of things: Learning Exploitation with Offensive Computer Security 2.0](http://howto.hackallthethings.com/2016/07/learning-exploitation-with-offensive.html)
 
