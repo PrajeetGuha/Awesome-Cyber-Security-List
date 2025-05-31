@@ -42,7 +42,7 @@ Bookmarks
 
 [Offensive Computer Security Home Page Spring 2014](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/) (Not Available)
 
-[Training for manipulating all kinds of things: Learning Exploitation with Offensive Computer Security 2.0](http://howto.hackallthethings.com/2016/07/learning-exploitation-with-offensive.html)
+[Training for manipulating all kinds of things: Learning Exploitation with Offensive Computer Security 2.0](http://howto.hackallthethings.com/2016/07/learning-exploitation-with-offensive.html) (Not Available)
 
 </dl>
 
