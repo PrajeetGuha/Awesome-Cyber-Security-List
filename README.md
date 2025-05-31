@@ -52,7 +52,7 @@ Bookmarks
 
 <dl>
 
-[Modern Binary Exploitation - Spring 2015]([http://security.cs.rpi.edu/courses/binexp-spring2015/](https://web.archive.org/web/20210710080726/http://security.cs.rpi.edu/courses/binexp-spring2015/))
+[Modern Binary Exploitation - Spring 2015]([http://security.cs.rpi.edu/courses/binexp-spring2015/](https://web.archive.org/web/20210710080726/http://security.cs.rpi.edu/courses/binexp-spring2015/)
 
 [GitHub - RPISEC/MBE: Course materials for Modern Binary Exploitation by RPISEC](https://github.com/RPISEC/MBE)
 
